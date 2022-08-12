@@ -1,0 +1,3 @@
+console.log("Print my lucky number");
+const myObject = ("My lucky number is" + ' ' + 5);
+console.log(myObject);
