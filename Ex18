@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    
+    <h2>My First Paragraph</h2>
+    
+    <p>My first paragraph</p>
+    
+    <p>Lets get started writing some code</p>
+
+    <button type="button" onclick=
+            "document.write('Hello World!')">Click Me</button>
+    
+      </body>
+    </html>
