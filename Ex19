@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    
+    <h2>
+      Writing into an HTML Element
+      with JavaScript
+    </h2>
+    
+    <p id="greet"></p>
+    <p id="result"></p>
+    
+    <script>
+    document.getElementById("greet").innerHTML = "Hello World!";
+      
+      const a = 10;
+      const b = 20;
+      const sum = a + b;
+document.getElementById("result").innerHTML = sum;
+    </script>
+    
+      </body>
+      </html>
