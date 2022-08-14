@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    
+    <h2>My First Paragraph</h2>
+    
+    <p>My first paragraph</p>
+    
+    <p>Lets get started writing some code</p>
+    
+    <script>
+      alert("Hello World");
+      
+      const a = 10;
+      const b = 20;
+      const sum = a + b;
+      document.write(sum);
+    </script>
+    
+      </body>
+    </html>
