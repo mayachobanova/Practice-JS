@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+<script>
+  let favDrink = "Jack";
+  let favNum = 7;
+  
+  function myFavs() {
+    console.log(favDrink, favNum);
+  }
+  myFavs();
+  
+  let person = {
+    name: "John",
+    age: 30,
+  }
+  console.log(person.age);
+  console.log(person.name);
+  </script>
+</body>
+</html>
